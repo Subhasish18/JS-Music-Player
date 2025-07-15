@@ -135,15 +135,6 @@ Adjust the player size by modifying the container dimensions:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Font Awesome for the beautiful icons
-- Google Fonts for the Ubuntu font family
-- Sample music tracks for demonstration purposes
-
-## 📞 Support
-
-If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/JS-Music-Player/issues) on GitHub.
 
 ---
 
